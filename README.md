@@ -3,10 +3,10 @@
 
 
 # 目前采用两种方式进行验证码生成
-第一种是采用基于pillow进行二次封装的模块captcha模块
+第一种是采用基于pillow进行二次封装的模块captcha模块<br>
 ![pillow](./img/2.png)
 <br>
-第二种是采用pillow模块自己进行验证码图片刻画
+第二种是采用pillow模块自己进行验证码图片刻画<br>
 ![pillow](./img/1.PNG)
 
 
